@@ -1,0 +1,39 @@
+/*global*/
+body {
+  font-family: "Roboto", sans-serif;
+  color: #b1b493;
+  font-size: 18px;
+}
+
+h1 {
+  text-transform: uppercase;
+}
+
+/*intro*/
+.intro {
+  height: 400px;
+  position: relative;
+  background-image: url("https://images.pexels.com/photos/57750/pexels-photo-57750.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+  background-position: center center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.intro p {
+  font-family: "Dancing Script", cursive;
+  margin: 0 0;
+  color: orange;
+}
+
+.intro .container {
+  padding: 10px 100px;
+  margin: 0 0;
+  max-width: 100%;
+  background-color: #07031a;
+}
+
+.intro .container a {
+  color: #b1b493;
+  text-decoration: none;
+}
+/*# sourceMappingURL=style.css.map */

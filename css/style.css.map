@@ -1,9 +1,1 @@
-{
-	"version": 3,
-	"file": "style.css",
-	"sources": [
-		"../sass/style.scss"
-	],
-	"names": [],
-	"mappings": ""
-}
+{"version":3,"sources":["../sass/style.scss"],"names":[],"mappings":"AAQA,UAAU;AACV;EACI,kCAT4B;EAU5B,eAPe;EAQf,gBAAe;CAClB;;AACD;EACI,0BAAyB;CAC5B;;AAED,SAAS;AACT;EACI,cAAa;EACb,mBAAkB;EAClB,8HAA6H;EAC7H,mCAAkC;EAClC,uBAAsB;EACtB,6BAA4B;CAC/B;;AACD;EACI,uCA1BiC;EA2BjC,YAAW;EACX,cAAa;CAChB;;AACD;EACI,oBAAmB;EACnB,YAAW;EACX,gBAAe;EACf,0BA9BiB;CAoCpB;;AAVD;EAOQ,eAnCW;EAoCX,sBAAqB;CACxB","file":"style.css"}
